@@ -22,6 +22,10 @@ redirect_from:
 **异构大数据机器学习 | 联邦学习 | 聚类分析 | 动态环境数据分析（包括流数据/时序数据/OOD数据分析）| 长尾学习**
 
 已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
+已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
+已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
+已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -58,5 +62,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 工作经历
+# 💻 internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
