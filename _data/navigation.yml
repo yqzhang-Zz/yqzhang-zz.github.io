@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
+  - title: "新闻"
     url: "/#-news"
 
   - title: "Publications"
